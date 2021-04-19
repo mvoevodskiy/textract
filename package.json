@@ -1,10 +1,14 @@
 {
-  "name": "textract",
-  "version": "2.5.0",
-  "homepage": "https://github.com/dbashford/textract",
-  "author": "David Bashford",
+  "name": "mv-textract",
+  "version": "2.5.1",
+  "homepage": "https://github.com/mvoevodskiy/textract",
+  "author": "Mikhail S. Voevodskiy (based on package by David Bashford)",
   "description": "Extracting text from files of various type including html, pdf, doc, docx, xls, xlsx, csv, pptx, png, jpg, gif, rtf, text/*, and various open office.",
   "contributors": [
+    {
+      "name": "Mikhail S. Voevodskiy",
+      "email": "packages@mvoevodskiy.ru"
+    },
     {
       "name": "David Bashford",
       "email": "dbashford@hotmail.com"
@@ -12,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dbashford/textract"
+    "url": "https://github.com/mvoevodskiy/textract"
   },
   "keywords": [
     "textract",

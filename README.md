@@ -1,6 +1,8 @@
 textract
 ========
 
+>Fork from [textract](https://www.npmjs.com/package/textract) by [dbashford](https://www.npmjs.com/~dbashford)
+
 A text extraction node module.
 
 [![NPM](https://nodei.co/npm/textract.png?compact=true)](https://nodei.co/npm/textract/)
